@@ -1,4 +1,4 @@
-## 🧠 Use Case 3: Customized Marketing – Customer Segmentation with Clustering
+## 🧠 Customized Marketing – Customer Segmentation with Clustering
 
 ### 🎯 Objective
 To enable the bank’s marketing team to design and execute targeted marketing campaigns by grouping customers based on their spending behavior.
